@@ -1,0 +1,104 @@
+[
+  {
+    "name": "g1",
+    "desc": "",
+    "fixed_params": {
+      "dai": 20,
+      "dai_1": 350,
+      "sau": 50,
+      "cao": 240,
+      "daytam": 1.75,
+      "Dmui": 0.6000000000000001,
+      "Muihecgoc": 0.24434609527920614
+    },
+    "editable_params": {
+      "dai": 20,
+      "sau": 50,
+      "cao": 240
+    },
+    "image": "",
+    "hidden": true,
+    "path": "g1"
+  },
+  {
+    "name": "Untitled",
+    "desc": "",
+    "fixed_params": {
+      "dài": 100
+    },
+    "editable_params": {
+      "dài": 100.0
+    },
+    "image": "static/images/Untitled.png",
+    "hidden": false,
+    "path": ""
+  },
+  {
+    "name": "giuong gio",
+    "desc": "",
+    "fixed_params": {
+      "daoduoien": 1.5875000000000001,
+      "dayphoi": 4,
+      "rong": 160,
+      "bogocngoai": 1.75,
+      "daydem": 20,
+      "tapdaugiuongDAI": 280,
+      "duangankeo": 25
+    },
+    "editable_params": {},
+    "image": "static/images/giuong gio.png",
+    "hidden": false,
+    "path": "giuong gio"
+  },
+  {
+    "name": "tu 3 canh",
+    "desc": "",
+    "fixed_params": {
+      "DAI": 280,
+      "RONG": 40,
+      "CAO": 185.20000000000002,
+      "DAYTAM": 1.75
+    },
+    "editable_params": {
+      "DAI": 280,
+      "RONG": 40
+    },
+    "image": "static/images/tu 3 canh.png",
+    "hidden": false,
+    "path": "tu 3 canh"
+  },
+  {
+    "name": "Tu+quan+ao_Tu+kinh (v5~recovered)",
+    "desc": "",
+    "fixed_params": {
+      "DT": 1.8,
+      "dai": 350.0,
+      "sau": 50.0,
+      "cao": 240.0,
+      "daytam": 1.75,
+      "Dmui": 0.6000000000000001,
+      "Muihecgoc": 0.24434609527920614,
+      "Dmuihec": 1.6,
+      "daimong": 4.0,
+      "rongngankeo": 50.0,
+      "saungankeo": 40.0,
+      "caongankeo": 20.0,
+      "caomatban": 75.0,
+      "caoghengoi": 45.0,
+      "caotualung": 84.0,
+      "muibo1p4": 0.6360000000000001,
+      "muibo1p2": 1.27,
+      "caochan": 8.0,
+      "ChianganT1": 5.0,
+      "ChianganT2": 5.0,
+      "Chiangant3": 4.0,
+      "Chiangant4": 4.0,
+      "kcngankeo": 1.0,
+      "DovetailPro_joint_1": 0.0
+    },
+    "editable_params": {},
+    "image": "static/images/Tu+quan+ao_Tu+kinh (v5~recovered).png",
+    "hidden": false,
+    "path": "Tu+quan+ao_Tu+kinh"
+  }
+]
