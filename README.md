@@ -19,7 +19,7 @@
   |-- main.js
   |-- products.json
   |-- static/
-      |-- images/
+      |-- images/ (ảnh sản phẩm)
       |-- style.css
 ```
 
@@ -28,10 +28,12 @@
    - Source: chọn branch `main`, folder `/ (root)`
    - Truy cập web tại: https://kai155.github.io/webshop/
 
-4. **Web fetch dữ liệu**
-   - Trong JS: `fetch('products.json')` và `fetch('static/images/ten_anh.png')`
+4. **Chức năng web**
+   - Hiển thị danh sách sản phẩm, ảnh, thông số.
+   - Click vào sản phẩm để nhập/chỉnh sửa kích thước (editable_params) ngay trên web (chỉ thay đổi trên giao diện, không lưu file).
 
-## Ghi chú
+5. **Ghi chú**
 - Mọi dữ liệu đều tĩnh, không cần backend.
 - Có thể đồng bộ file từ máy nội bộ lên repo bằng GitHub Desktop hoặc lệnh git.
-- Nếu cần thêm file HTML/JS mẫu, hãy yêu cầu!
+- Nếu muốn lưu lại chỉnh sửa kích thước lên server, cần thêm backend hoặc API.
+- Nếu cần thêm tính năng, giao diện, hãy yêu cầu!
